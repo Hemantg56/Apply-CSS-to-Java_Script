@@ -1,0 +1,10 @@
+.xyz {
+    height: 400px;
+    width: 400px;
+    color: #fff;
+    background-color: #000;
+    font-size: 4rem;
+    text-align: center;
+    line-height: 400px;
+    margin: 100px auto;
+}
